@@ -1,0 +1,37 @@
+.item {
+    width: 50%;
+    display: flex;
+
+}
+
+.item {
+    font-size: 16px;
+}
+
+
+.wrapper {
+    font-size: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+
+.wrapper {
+    display: flex;
+}
+
+
+.wrapper {
+    border-top: 3px solid #f1ebeb;
+    border-bottom: 3px solid #efecec;
+    background-color: #f6f4f4;
+    height: 300px;
+    align-items: start;
+}
+
+
+
+
